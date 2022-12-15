@@ -1,0 +1,16 @@
+{ "FormTestData": 
+	[
+		{
+		"FullName" : "Adnan Aashiq",
+		"Email" : "adnan@gmail.com",
+		"CurrentAddress" : "House no 3 Street no 567 Lahore",
+		"PermamnentAddress" : "House no 1 Street no 89 Multan"
+		},
+		{
+		"FullName" : "Bilal Ahmad",
+		"Email" : "bilal@gmail.com",
+		"CurrentAddress" : "House no 5 Street no 896 Lahore",
+		"PermamnentAddress" : "House no 7 Street no 85 Multan"	 	 	 		
+		}
+	]
+}
